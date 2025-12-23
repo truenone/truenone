@@ -41,11 +41,15 @@ I'm a passionate **Full-stack Developer** with a specialized focus on game devel
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=truenone&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Truen's GitHub Stats" />
+      <td align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=truenone&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+        </a>
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=truenone&theme=radical&hide_border=true" alt="Truen's Streak" />
+      <td align="center">
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img src="https://streak-stats.demolab.com?user=truenone&theme=radical&hide_border=true" alt="GitHub Streak" />
+        </a>
       </td>
     </tr>
   </table>
@@ -53,7 +57,9 @@ I'm a passionate **Full-stack Developer** with a specialized focus on game devel
 
 <div align="center">
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=truenone&theme=radical&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=truenone&theme=radical&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
