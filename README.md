@@ -13,7 +13,7 @@
 
 ### ⚡ Technical Profile
 
-I'm a **Full-stack Developer** specializing in complex system architectures and game engine modifications. Currently, I'm pushing the boundaries of what's possible within the **GTA V / FiveM** ecosystem.
+I'm a **Full-stack Developer** specializing in complex system architectures and game engine modifications. Currently, I'm pushing the boundaries of what's possible within the **GTA V / RageMP** ecosystem.
 
 * 🔭 **Current Focus:** Architecting high-concurrency roleplay server frameworks.
 * 🛠️ **Deep Dive:** Mastering low-level memory management and scalable microservices.
