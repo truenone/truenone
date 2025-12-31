@@ -58,7 +58,7 @@ I'm a **Full-stack Developer** specializing in complex system architectures and 
 </div>
 
 <br/>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=truenone)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=truenone&theme=radical&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
