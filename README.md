@@ -51,12 +51,6 @@ I'm a **Full-stack Developer** specializing in complex system architectures and 
 
 ### 📊 Performance Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truenone&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
-  
-  <img src="https://github-readme-streak-stats.demolab.com?user=truenone&theme=radical&hide_border=true" height="150" alt="streak" />
-</div>
-
 <br/>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
