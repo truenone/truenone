@@ -49,18 +49,7 @@ I'm a **Full-stack Developer** specializing in complex system architectures and 
 
 ---
 
-### 📊 Performance Metrics
-
-<br/>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=truenone&theme=radical&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <p><i>"The code is the canvas, and logic is the brush."</i></p>
+  <p><i>"Create, Upgrade and Win."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=60&section=footer" width="100%" />
 </div>
