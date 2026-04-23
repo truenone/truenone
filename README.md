@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Truen!+%F0%9F%91%8B;Solo+Founder+%40+IX+Roleplay;Computer+Engineering+Student;GTA+V+%2F+RageMP+Developer;Autonomous+UAV+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Truen!+%F0%9F%91%8B;Lead+Developer+%40+IX+Roleplay;Computer+Engineering+Student;GTA+V+%2F+RageMP+Developer;Autonomous+UAV+Enthusiast" alt="Typing SVG" />
   
-  <p><strong>Architecting Persistent Worlds · Shipping Solo · Learning in Public</strong></p>
+  <p><strong>Architecting Persistent Worlds · Shipping in Production · Learning in Public</strong></p>
   
   <p align="center">
     <a href="https://ixroleplay.com"><img src="https://img.shields.io/badge/IX_Roleplay-9333EA?style=for-the-badge&logo=rockstargames&logoColor=white" alt="IX Roleplay"></a>
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Computer Engineering student** from Turkey and the **solo founder & lead developer** of [**IX Roleplay**](https://ixroleplay.com) — a Turkish GTA V / RageMP roleplay server with **~6,000 registered players**, a persistent economy, and a full custom-scripted gameplay layer I've been building and maintaining for over 1.5 years.
+I'm a **Computer Engineering student** from Turkey and the **Lead Developer** of [**IX Roleplay**](https://ixroleplay.com) — a Turkish GTA V / RageMP roleplay server with **~6,000 registered players**, a persistent economy, and a full custom-scripted gameplay layer I've been building and maintaining with the team for over 1.5 years.
 
 I like systems that are hard to get right: concurrency-heavy game servers, low-level mod pipelines, and anything where a single bad decision cascades into visible pain for real users.
 
@@ -75,7 +75,7 @@ I like systems that are hard to get right: concurrency-heavy game servers, low-l
 
 ### 🎯 Currently
 
-- 🔭 Scaling IX Roleplay's retention & onboarding funnel — the hard part isn't getting players in, it's keeping them
+- 🔭 Working on IX Roleplay's retention & onboarding funnel — the hard part isn't getting players in, it's keeping them
 - 🧩 Decomposing monolithic gamemode logic into cleaner domain modules
 - 🛩️ Preparing TYF (technical design report) and flight-test iterations for the UAV competition
 - 🧠 Quietly curious about: multi-agent AI dev tooling, autonomous systems, carbon compliance tech
